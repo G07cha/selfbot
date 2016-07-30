@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
   "engines": {
     "node": ">=6.0.0"
   },
